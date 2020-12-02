@@ -1,1 +1,1 @@
-# Simple-Chatty-Bot
+A simple console based chat bot.
